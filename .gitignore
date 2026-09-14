@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.DS_Store
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
+tmp/
+
+# Local product/design source material — not part of the public app repository.
+/*.pdf
+/*.skill.md
+/pasted-text.txt
