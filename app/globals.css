@@ -184,12 +184,12 @@ a {
 
 .hero .hero__art {
   position: absolute;
-  inset: 0;
+  inset: 70px 0 43px;
 }
 
 .hero__art img {
   object-fit: cover;
-  object-position: center center;
+  object-position: center top;
 }
 
 .hero__content {
@@ -971,13 +971,13 @@ footer p {
     min-height: max(680px, 100svh);
   }
 
-  .hero__art {
+  .hero .hero__art {
+    inset: 4rem 0 auto;
     height: 58%;
-    top: 4rem;
   }
 
   .hero__art img {
-    object-position: 61% center;
+    object-position: 65% top;
   }
 
   .hero__content {

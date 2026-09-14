@@ -7,7 +7,7 @@ const loreBeats = [
   {
     number: "01",
     title: "THE SIGNAL",
-    body: "A crooked blue arc appears in the feed. Nobody knows why. Everybody reposts it anyway.",
+    body: "A crooked blue arc appears in Pepe’s feed. He follows it. Everybody reposts it anyway.",
   },
   {
     number: "02",
@@ -102,8 +102,8 @@ export function FinalArcExperience() {
       <main id="main-story">
         <section id="opening" className="hero" aria-labelledby="hero-title">
           <PixelReveal
-            src="/images/final-arc-hero.webp"
-            alt="An original inked comic goblin crossing a giant blue arc above a grid of dollar coins"
+            src="/images/final-arc-hero-pepe.webp"
+            alt="Pepe the Frog crosses a giant blue arc above a grid of dollar coins in a xerox-style comic"
             className="hero__art"
             priority
           />
@@ -145,7 +145,8 @@ export function FinalArcExperience() {
               <p>
                 Then Circle named a chain <strong>Arc</strong>. The Final Arc is the obvious,
                 catastrophically unserious response: a comic movement made for the feed, with a
-                future deployment target that happens to share the punchline.
+                future deployment target that happens to share the punchline. Pepe is the witness,
+                doomed to carry the receipt all the way to the ending.
               </p>
             </div>
           </div>
@@ -182,8 +183,8 @@ export function FinalArcExperience() {
         <section id="mechanics" className="scene mechanics" aria-labelledby="mechanics-title">
           <div className="mechanics__visual">
             <PixelReveal
-              src="/images/arc-machine.webp"
-              alt="An original comic machine feeds a dollar coin through an arc monitor, privacy curtain, and finality stamp"
+              src="/images/arc-machine-pepe.webp"
+              alt="Pepe the Frog operates a comic machine that feeds a dollar coin through an arc monitor, privacy curtain, and finality stamp"
               className="mechanics__image"
               sizes="(max-width: 800px) 100vw, 58vw"
             />

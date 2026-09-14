@@ -1,6 +1,6 @@
 # The Final Arc
 
-An original, playable 2D webcomic site for **The Final Arc** — an unofficial internet movement preparing to deploy on Circle's Arc blockchain.
+An original, playable 2D Pepe webcomic site for **The Final Arc** — an unofficial internet movement preparing to deploy on Circle's Arc blockchain.
 
 ## Product boundaries
 
@@ -37,4 +37,4 @@ npm run build
 
 The site combines the reference's full-viewport worldbuilding and terse mono chrome with Arc's blue-black identity. The image transitions are an original implementation inspired by the documented behavior of React Bits Pro's Pixel Reveal component.
 
-The two comic plates were generated specifically for this project and do not reuse Trollface or other existing meme characters.
+The two comic plates were created specifically for this project with Pepe the Frog as the recurring protagonist; they do not reuse Trollface artwork.

@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "The Final Arc — An Unofficial Internet Movement",
   description:
-    "A playable rage-comic story about The Final Arc, an unofficial internet movement preparing to deploy on Arc.",
+    "A playable Pepe comic about The Final Arc, an unofficial internet movement preparing to deploy on Arc.",
   icons: {
     icon: "/favicon.svg",
   },
